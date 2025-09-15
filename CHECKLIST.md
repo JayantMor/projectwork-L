@@ -2,8 +2,7 @@
 
 To be filled by developer daily:
 
-- **Date:**
-- **What I did today:**
+- **What task did today:**
 - **Commit link(s):**
 - **Demo screenshot/clip (if any):**
 - **Next steps:**
