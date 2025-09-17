@@ -1,4 +1,4 @@
-# Project Prototype (College Project Demo)
+# Project
 
 This is a college project demo for action recognition.
 
