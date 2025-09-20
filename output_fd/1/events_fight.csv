@@ -1,0 +1,5 @@
+event_id,label,start_time_s,end_time_s,duration_s,max_conf_fight,avg_conf_fight,start_hms,end_hms
+1,fight,1.067,2.633,1.567,0.9296,0.7958,00h00m01.07s,00h00m02.63s
+2,fight,4.267,11.7,7.433,0.9779,0.8477,00h00m04.27s,00h00m11.70s
+3,fight,12.8,14.9,2.1,0.9666,0.8564,00h00m12.80s,00h00m14.90s
+4,fight,16.533,17.567,1.033,0.953,0.736,00h00m16.53s,00h00m17.57s

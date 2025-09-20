@@ -1,0 +1,2 @@
+event_id,label,start_time_s,end_time_s,duration_s,max_conf,avg_conf,start_hms,end_hms
+1,violence,2.133,19.167,17.033,0.9458,0.5372,00h00m02.13s,00h00m19.17s

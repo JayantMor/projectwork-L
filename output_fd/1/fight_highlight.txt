@@ -1,0 +1,4 @@
+file 'D:/PycharmProject/JayantS_Fight_Dectection/output_fd/1/clips/fight/1_F001_fight_[00h00m01.07s-00h00m02.63s]_conf0.93.mp4'
+file 'D:/PycharmProject/JayantS_Fight_Dectection/output_fd/1/clips/fight/1_F002_fight_[00h00m04.27s-00h00m11.70s]_conf0.98.mp4'
+file 'D:/PycharmProject/JayantS_Fight_Dectection/output_fd/1/clips/fight/1_F003_fight_[00h00m12.80s-00h00m14.90s]_conf0.97.mp4'
+file 'D:/PycharmProject/JayantS_Fight_Dectection/output_fd/1/clips/fight/1_F004_fight_[00h00m16.53s-00h00m17.57s]_conf0.95.mp4'
