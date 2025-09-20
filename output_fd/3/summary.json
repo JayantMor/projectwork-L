@@ -1,0 +1,18 @@
+{
+  "video": "D:\\PycharmProject\\JayantS_Fight_Dectection\\3.mp4",
+  "weights": "D:\\PycharmProject\\JayantS_Fight_Dectection\\model_16_m3_0.8888.pth",
+  "fps": 29.0,
+  "frames": 1655,
+  "duration_s": 57.06896551724138,
+  "seq": 16,
+  "skip": 1,
+  "mode": "raw_label_segments",
+  "merge_gap_s": 0.0,
+  "min_seg_dur_s": 0.0,
+  "clip_padding": {
+    "pre": 0.0,
+    "post": 0.0
+  },
+  "save_fight": true,
+  "save_noFight": true
+}
