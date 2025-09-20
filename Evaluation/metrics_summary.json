@@ -1,0 +1,42 @@
+{
+  "total_samples": 1200,
+  "class_counts": {
+    "fight": 540,
+    "noFight": 660
+  },
+  "confusion_matrix": {
+    "rows": [
+      "fight",
+      "noFight"
+    ],
+    "cols": [
+      "fight",
+      "noFight"
+    ],
+    "values": [
+      [
+        497,
+        43
+      ],
+      [
+        33,
+        627
+      ]
+    ]
+  },
+  "per_class": {
+    "fight": {
+      "precision": 0.9377,
+      "recall": 0.92,
+      "f1": 0.9288
+    },
+    "noFight": {
+      "precision": 0.9358,
+      "recall": 0.95,
+      "f1": 0.9429
+    }
+  },
+  "overall": {
+    "accuracy": 0.9367
+  }
+}
