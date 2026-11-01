@@ -1,6 +1,6 @@
 # Project
 
-This is a college project demo for action recognition.
+This is a project demo for action recognition.
 
 ## Scope
 - Use pre-trained action recognition model (fight vs non-fight)
@@ -11,9 +11,9 @@ This is a college project demo for action recognition.
 - Export alerts (CSV/JSON) + auto-delete old clips
 
 ## Workflow
-1. Work must be done inside this repo (feature branches).
+1. Work is done inside this repo (feature branches).
 2. Daily commits + updates in CHECKLIST.md
-3. All deliverables (code + docs + demo) will be submitted here.
+3. All deliverables (code + docs + demo) are submitted here.
 
 ## Project Structure
 projectwork-L/
